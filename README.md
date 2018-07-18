@@ -1,0 +1,2 @@
+# solar_roof
+solar_roof project is developed to assess solar potential on resident house, by giving the 2D satellite image of rooftop. This is project currently under development, for which I am working on as my master thesis. Conventional computer vision techniques are heavily applied in analysis to determine the key information to assess solar potential, such as roof edge detection, plane orientation, plane contact relation, etc. Neural network will be applied in the future, but it is worthy to first investigate problem from traditional way. 
